@@ -1,0 +1,9 @@
+
+.item_div{
+
+    background-color: red;
+display: contents;
+justify-content: flex-start;
+align-items: center;
+flex-direction: row;
+}
