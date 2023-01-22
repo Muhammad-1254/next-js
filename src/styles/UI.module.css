@@ -1,0 +1,28 @@
+.main_div{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.input_div{
+  
+    display: flex;
+flex-direction: row;
+align-items: center;
+padding-bottom: 30px;
+}
+
+.btn_div{
+    color: red;
+}
+.card_div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.btn_div_removeAll{
+    padding-top: 30px;
+size: 20%;
+}
